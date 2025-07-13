@@ -41,7 +41,7 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Utilities",
     ],
-    description=("Python 3 library for downloading (googledrive,mega,mediafire,directurl)"),
+    description=("Python 3 library for downloading (googledrive,mediafire,directurl)"),
     zip_safe=True,
     python_requires=">=3.6",
     keywords=["youtube", "download", "video", "stream",],
